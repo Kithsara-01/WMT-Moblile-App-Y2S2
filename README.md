@@ -197,7 +197,7 @@ The module allocation below follows the original `README.txt`, with Deshan's add
 | Dilka K.B.T | IT24101143 | Order and Payment Management |
 | Ramanayaka R.A.S.S | IT24103406 | Feedback / Review Management |
 | Maryshalini A | IT24100683 | Service Management |
-| Deshan S.M.K | IT24104190 | Full-Stack Product Management, Overall System Structure, and Final Integration |
+| Deshan S.M.K | IT24104190 | Product Management, Overall System Structure, and Final Integration |
 | Disanayaka K.G.G.S | IT24102031 | Booking Management |
 | Jayakody J.A.K.S.S | IT24100778 | Inventory Management |
 
