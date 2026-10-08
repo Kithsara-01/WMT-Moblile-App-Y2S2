@@ -7,7 +7,6 @@ An Expo / React Native mobile application with a Node.js, Express, and MongoDB b
 Manual spare-parts and service management can make product availability, stock updates, orders, and bookings difficult to track. This project provides customer and administrative workflows through a mobile frontend and REST API.
 
 **Project type:** University group project  
-**Group:** WD-IT-25  
 **Frontend:** React Native with Expo  
 **Backend:** Node.js and Express  
 **Database:** MongoDB with Mongoose
